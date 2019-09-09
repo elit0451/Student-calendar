@@ -10,7 +10,7 @@ To run this program, it is necessary to visit [Prolog's website](https://www.swi
 
 > Load the program 
 
-Execute `consult('.../schedule.pl').` command with the corresponding path to the **schedule.pl** file found in the repository. If it is loaded correctly you should get `true.` as a response back.
+Execute `consult('.../schedule.pl').` command with the corresponding path to the [**schedule.pl**](https://github.com/elit0451/Student-calendar/blob/master/schedule.pl) file found in the repository. If it is loaded correctly you should get `true.` as a response back.
 
 </br>
 
